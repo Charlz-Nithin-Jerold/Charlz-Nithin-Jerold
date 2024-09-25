@@ -6,7 +6,7 @@
 I am currently working as a Bioinformatics Research Analyst at Washington University in St.Louis.
 
 #### Email
-jerold[at]wustl.edu
+jerold@wustl.edu
 
 #### Education
 M.S., Bioinformatics, Saint Louis University, 2022—2024, GPA: 3.8
