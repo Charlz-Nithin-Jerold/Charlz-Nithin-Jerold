@@ -10,6 +10,7 @@ jerold@wustl.edu
 
 #### Education
 M.S., Bioinformatics, Saint Louis University, 2022—2024, GPA: 3.8
+
 B.Tech., Biotechnology, B S Abdur Rahman University of Science and Technology, 2017—2021, GPA: 3.6
 
 #### Research Interests
