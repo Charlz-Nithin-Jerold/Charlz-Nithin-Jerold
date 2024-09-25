@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Charlz-Nithin-Jerold](https://img.shields.io/badge/Charlz-Nithin-Jerold?style=flat&logo=github&color=blue
+)](https://github.com/Charlz-Nithin-Jerold)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently working as a Bioinformatics Research Analyst at Washington University in St.Louis.
 
 #### Email
-sli[at]cumt.edu.cn
+jerold[at]wustl.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Bioinformatics, Saint Louis University, 2022—2024, GPA: 3.8
+B.Tech., Biotechnology, B S Abdur Rahman University of Science and Technology, 2017—2021, GPA: 3.6
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Single-cell analysis, cancer genomics, and the application of machine learning (ML) and deep learning (DL) techniques.
 
