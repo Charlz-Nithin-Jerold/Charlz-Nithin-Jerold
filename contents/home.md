@@ -1,7 +1,7 @@
 
 
 [![Charlz-Nithin-Jerold](https://img.shields.io/badge/Charlz-Nithin-Jerold?style=flat&logo=github&color=blue
-)](https://github.com/Charlz-Nithin-Jerold)
+)](https://github.com/cnithin7)
 
 I am currently working as a Bioinformatics Research Analyst at Washington University in St.Louis.
 
